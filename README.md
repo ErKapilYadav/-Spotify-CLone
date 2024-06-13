@@ -1,2 +1,2 @@
 # -Spotify-CLone
-This is an Spotify clone using html css
+This is an Spotify clone using html css.
